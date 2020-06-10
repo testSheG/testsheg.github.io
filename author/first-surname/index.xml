@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Surname | Academic</title>
+    <link>https://testsheg.github.io/author/first-surname/</link>
+      <atom:link href="https://testsheg.github.io/author/first-surname/index.xml" rel="self" type="application/rss+xml" />
+    <description>First Surname</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://testsheg.github.io/author/first-surname/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>First Surname</title>
+      <link>https://testsheg.github.io/author/first-surname/</link>
+    </image>
+    
+  </channel>
+</rss>
